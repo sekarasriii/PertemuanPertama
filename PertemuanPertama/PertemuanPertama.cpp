@@ -13,6 +13,8 @@ int main()
 
     double nJejari, nLuas;
     
+
+    
     system("pause");
 
 }
